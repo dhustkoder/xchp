@@ -27,20 +27,8 @@ along with this program.  If not, see http://www.gnu.org/licenses/gpl-3.0.html.
 
 namespace xchip { namespace fonts {
 
-
-extern uint8_t chip8DefaultFont[80];
-
-extern uint8_t chip8HiResFont[160];
-
-
-
-
-
-
-
-
-
-
+extern const uint8_t chip8DefaultFont[80];
+extern const uint8_t chip8HiResFont[160];
 
 }}
 
